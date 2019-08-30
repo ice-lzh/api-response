@@ -1,0 +1,20 @@
+{
+    "name": "lzh/apiResponse",
+    "authors": [
+        {
+            "name": "liuzhihao",
+            "email": "834281422@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "lzh\\apiResponse\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "lzh\\apiResponse\\Tests\\": "tests/"
+        }
+    },
+    "require": {}
+}
