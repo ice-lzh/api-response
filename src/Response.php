@@ -1,6 +1,6 @@
 <?php
 
-namespace Lzh\Response;
+namespace Liuzhihao\Response;
 
 class Response
 {

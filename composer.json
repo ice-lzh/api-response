@@ -1,5 +1,5 @@
 {
-    "name": "lzh/api-response",
+    "name": "liuzhihao/api-response",
     "authors": [
         {
             "name": "liuzhihao",
@@ -8,12 +8,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "lzh\\apiResponse\\": "src/"
+            "liuzhihao\\apiResponse\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "lzh\\apiResponse\\Tests\\": "tests/"
+            "liuzhihao\\apiResponse\\Tests\\": "tests/"
         }
     },
     "require": {}
