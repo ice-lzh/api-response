@@ -8,12 +8,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "liuzhihao\\apiResponse\\": "src/"
+            "Liuzhihao\\ApiResponse\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "liuzhihao\\apiResponse\\Tests\\": "tests/"
+            "Liuzhihao\\ApiResponse\\Tests\\": "tests/"
         }
     },
     "require": {}
